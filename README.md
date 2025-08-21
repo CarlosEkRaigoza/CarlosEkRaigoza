@@ -1,5 +1,6 @@
 <div align="center">
   <h1><b>Hoooola, yo soy Carlos</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <p>💻 Desarrollador Full-Stack
 </div>
 
 ---
@@ -17,20 +18,26 @@
 
 ---
 
-## Sobre mí
+## 👨‍💻 Sobre mí
 
-> 👋 ¡Hola! Soy **Carlos Ek Raigoza**, desarrollador Full-Stack apasionado por crear aplicaciones web y móviles con **Flutter, Laravel y MySQL**. Me gusta compartir mis proyectos y aprendizajes, como sistemas de citas médicas y simulaciones de viajes, aplicando buenas prácticas de desarrollo y documentación clara.
-
-### 🛠️ Tecnologías y habilidades
-- Flutter, Dart  
-- Laravel, PHP  
-- MySQL, bases de datos relacionales  
-- Git, GitHub, control de versiones  
-- Desarrollo de apps web y móviles full-stack  
+> Soy **Carlos Ek Raigoza**, desarrollador Full-Stack apasionado por crear apps web y móviles con **Flutter, Laravel y MySQL**.  
+> Me encanta compartir proyectos y aprendizajes aplicando buenas prácticas de desarrollo y documentación clara.
 
 ---
 
-### ⚙️ GitHub Analytics
+## 🛠️ Tecnologías y habilidades
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FC3A2D?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## ⚡ GitHub Stats
 
 <p align="center">
   <a href="https://github.com/CarlosEkRaigoza" target="_blank">
