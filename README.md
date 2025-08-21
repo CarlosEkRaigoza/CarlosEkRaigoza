@@ -1,6 +1,6 @@
 <div align="center">
-  <h1><b>Hoooola, yo soy Carlos</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <p>💻 Desarrollador Full-Stack
+  <h1><b>Hoola, yo soy Carlos</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <p>💻 Desarrollador Full-Stack | Web & Móvil</p>
 </div>
 
 ---
@@ -20,24 +20,24 @@
 
 ## 👨‍💻 Sobre mí
 
-> Soy **Carlos Ek Raigoza**, desarrollador Full-Stack apasionado por crear apps web y móviles con **Flutter, Laravel y MySQL**.  
+> Soy **Carlos Ek Raigoza**, desarrollador Full-Stack apasionado por crear apps web y móviles.  
 > Me encanta compartir proyectos y aprendizajes aplicando buenas prácticas de desarrollo y documentación clara.
 
+### 💡 Habilidades técnicas
+- Desarrollo Full-Stack  
+- Control de versiones con Git y GitHub  
+- Diseño y documentación de software según estándares IEEE  
+- Pruebas de software y buenas prácticas de programación  
+
+### 🌟 Habilidades blandas
+- Comunicación efectiva y colaboración en equipo  
+- Resolución de problemas y pensamiento crítico  
+- Organización y planificación de proyectos  
+- Curiosidad y aprendizaje continuo
+
 ---
 
-## 🛠️ Tecnologías y habilidades
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FC3A2D?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## ⚡ GitHub Stats
+### ⚙️ GitHub Stats
 
 <p align="center">
   <a href="https://github.com/CarlosEkRaigoza" target="_blank">
@@ -49,5 +49,6 @@
 ---
 
 <p align="center">
-  <i>"No tree, it is said, can grow to heaven unless its roots are in hell."</i>
+  <i>"No tree, it is said, can grow to heaven unless its roots are in hell."</i><br>
+  — Carl Jung
 </p>
